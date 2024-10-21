@@ -6,6 +6,7 @@ public class lab_001 {
         System.out.println("helloe world welcome v)");
          new demo vaseen new
             cna i try
+        yes it is possible
 
     }
 }
